@@ -1,5 +1,5 @@
 # ML_from_scratch
 
-Our team has 2 member now :)
+This is for my Machine Learning course - Sep 2021
 
-This is for my course: Machine Learning, hcmut university
+Most of the algorithms follow some free sources, including sklearn and some other sources that I list in the reference section of each algorithm. For all algorithms, I try to grasp the idea before coding by myself.
